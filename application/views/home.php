@@ -11,7 +11,7 @@
 						<button><a href="#QuoteForm">Get a quote</a></button> 
 				</div>
 				<div id="MainContainerRight">
-						asdasd
+						<img src="<?php echo base_url() ?>img/connect.png  ">
 				</div>	
 	</div>
 </div>
